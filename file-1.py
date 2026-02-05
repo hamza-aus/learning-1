@@ -1,8 +1,8 @@
 #
 print("HelloHamza")
 print("Hello1Shan")
-print("Hello2")
-print("Hello3")
+print("Hello2Hamza")
+print("Hello3Hamza")
 print("Hello4")
 print("Hello5")
 print("Hello6")
