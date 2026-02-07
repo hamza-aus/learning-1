@@ -34,3 +34,6 @@ term
 
 ### Subscript:
 H~2~O
+
+### Emojis:
+That is so funny! :joy:
