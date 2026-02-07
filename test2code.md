@@ -37,3 +37,9 @@ H~2~O
 
 ### Emojis:
 That is so funny! :joy:
+
+### Highlight
+I need to highlight these ==very important words==.
+
+### Superscript
+X^2^
