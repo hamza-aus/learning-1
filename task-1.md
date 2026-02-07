@@ -13,3 +13,7 @@ define foobar() {
 } 
 ```
 (which makes copying and pasting easier). You can optionally mark the delimited block for the Pandoc to syntax highlight it:
+
+```
+import time
+# Quick, count to ten!
