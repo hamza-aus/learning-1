@@ -68,7 +68,8 @@ Note again how the actual text starts at column 4 in (4 characters from the left
    ```
 Notice again how text always lines up on 4-space ingredients (including that last line which continues item 3 above). 
 Here's a link to [a website](https://www.google.com), to a [local doc](https://www.google.com), and to a [section heading in the current doc](https://www.google.com). Here's a footnote. [^1]  
-[^1]: Footnote text goes here.
+[^1]: Footnote text goes here.  
+
 Tables can look like this:  
 | size | material | colour | 
 
@@ -98,5 +99,3 @@ and images can be spcified like so:
 [example image](image.png)  
 Inline math equations go in like so (doesnt work). Display math should get its own line and be put in in double-dollarsigns (doesnt work too).  
 And note that you can backslash-scape any punctuation characters which you wish to be displayed literally, ex.: `foo`, *bar*, etc.
-
-[^1] Footnote text goes here.
