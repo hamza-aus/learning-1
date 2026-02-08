@@ -55,14 +55,20 @@ Here's a numbered list:
 
 Note again how the actual text starts at column 4 in (4 characters from the left side). Here's a code sample.
 
-3. Dump everything in the pot and follow this algorithm:
+ 3. Dump everything in the pot and follow this algorithm:
 
-```
-find wooden spoon
-uncover pot
-stir 
-cover pot
-balance wooden spoon precariously on pot handle
-wait 10 minutes
-goto first step (or shut off burner when done)
-```
+   ```
+   find wooden spoon
+   uncover pot
+   stir 
+   cover pot
+   balance wooden spoon precariously on pot handle
+   wait 10 minutes
+   goto first step (or shut off burner when done)
+   ```
+Notice again how text always lines up on 4-space ingredients (including that last line which continues item 3 above). 
+Here's a link to [a website](https://www.google.com), to a [local doc](https://www.google.com), and to a [section heading in the current doc](https://www.google.com). Here's a footnote [^1].  
+Tables can look like this:
+| size | material | colour |
+ 
+--- 
