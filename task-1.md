@@ -68,7 +68,9 @@ Note again how the actual text starts at column 4 in (4 characters from the left
    ```
 Notice again how text always lines up on 4-space ingredients (including that last line which continues item 3 above). 
 Here's a link to [a website](https://www.google.com), to a [local doc](https://www.google.com), and to a [section heading in the current doc](https://www.google.com). Here's a footnote [^1].  
-Tables can look like this:
+Tables can look like this:  
 | size | material | colour |
  
 --- 
+9 leather brown 10 hemp canvas natural 11 glass transparent  
+Table: Shoes, their sizes, and what they're made of
