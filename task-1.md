@@ -26,3 +26,7 @@ for i in range(10):
 
 Now a nested list:
 1. First, get these ingredients:
+- carrots 
+- celery
+- lentils
+2. Boil some water
