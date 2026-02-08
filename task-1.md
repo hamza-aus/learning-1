@@ -51,5 +51,5 @@ Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all in chapters
 Here's a numbered list:
    1. first item
    2. second item
-   3. third item
+   3. third item  
 Note again how the actual text starts at column 4 in (4 characters from the left side). Here's a code sample.
