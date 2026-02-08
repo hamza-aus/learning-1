@@ -89,4 +89,13 @@ A horizontal rule follows
 ---
 Here's a definition list:
 apples
-: Good for making applesauce. oranges : Citrus! tomatoes : There's no "e" in tomatoe
+: Good for making applesauce. oranges : Citrus! tomatoes : There's no "e" in tomatoe.  
+Again, text is indented 4 spaces. (Put a blank line betweeen each term/definition pair to spread things out more.)  
+Here's a "line block":  
+| Line one | Line too | Line tree  
+and images can be spcified like so:  
+[example image](image.png)  
+Inline math equations go in like so w=dp / dt. Display math should get its own line and be put in in double-dollarsigns:  
+                  I = lpR2dV  
+And note that you can backslash-scape any punctuation characters which you wish to be displayed literally, ex.: `foo`, *bar*, etc.
+[^1] Footnote text goes here.
