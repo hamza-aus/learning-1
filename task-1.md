@@ -80,7 +80,7 @@ Table: Shoes, their sizes, and what they're made of
 keyword text
 
 ---
-red Sunsets, apples, and other red or reddish things.
+red Sunsets, apples, and other red or reddish things.  
 green Leaves, grass, frogsand other things it's not easy being.
 
 ---
