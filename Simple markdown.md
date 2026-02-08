@@ -18,7 +18,7 @@
 - Second item
 - Third item
 
-`This would be code such as (print...)`
+`This would be code such as (print...)` (monospace)
 
 Horizontal rule:
 ---
