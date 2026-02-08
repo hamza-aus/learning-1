@@ -81,3 +81,12 @@ keyword text
 
 ---
 red Sunsets, apples, and other red or reddish things.
+green Leaves, grass, frogsand other things it's not easy being.
+
+---
+A horizontal rule follows
+
+---
+Here's a definition list:
+apples
+: Good for making applesauce. oranges : Citrus! tomatoes : There's no "e" in tomatoe
