@@ -54,3 +54,15 @@ Here's a numbered list:
    3. third item  
 
 Note again how the actual text starts at column 4 in (4 characters from the left side). Here's a code sample.
+
+3. Dump everything in the pot and follow this algorithm:
+
+```
+find wooden spoon
+uncover pot
+stir 
+cover pot
+balance wooden spoon precariously on pot handle
+wait 10 minutes
+goto first step (or shut off burner when done)
+```
