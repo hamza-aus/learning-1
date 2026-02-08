@@ -95,7 +95,6 @@ Here's a "line block":
 | Line one | Line too | Line tree  
 and images can be spcified like so:  
 [example image](image.png)  
-Inline math equations go in like so $ \omega = \frac{d\phi}{dt} $. Display math should get its own line and be put in in double-dollarsigns:  
-$$ I = \int \rho R^2 \, dV $$  
+Inline math equations go in like so (doesnt work). Display math should get its own line and be put in in double-dollarsigns (doesnt work too).  
 And note that you can backslash-scape any punctuation characters which you wish to be displayed literally, ex.: `foo`, *bar*, etc.
 [^1] Footnote text goes here.
